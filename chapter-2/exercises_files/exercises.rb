@@ -1,3 +1,5 @@
+# Some exercises were to create a method for some class. I divided it in some files.
+
 # 4
 
 module Redis

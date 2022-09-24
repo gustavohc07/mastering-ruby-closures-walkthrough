@@ -1,8 +1,12 @@
 module RefineString
   refine String do
     def each_word
+      x = 0
       words_array = self.split
-      yield words_array
+      while words_array.size > x
+        yield words_array[x]
+        x += 1
+      end
     end
   end
 end

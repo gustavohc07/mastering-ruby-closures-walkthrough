@@ -7,7 +7,7 @@
 #   end
 # end
 
-# Let's implement it!!
+# Let's implement it!! Of course, a super simple version.
 
 module ActiveRecord
   class Schema

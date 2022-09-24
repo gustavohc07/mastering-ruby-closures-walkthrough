@@ -22,7 +22,7 @@ using RefineFile
 # puts file
 # file.close
 
-file = File.open("./chapter-2/my_file_open.rb", "r") do |f|
+file = File.open("./chapter-2/exercises/my_file_open.rb", "r") do |f|
   puts f.path
   puts f.ctime
   puts f.size
