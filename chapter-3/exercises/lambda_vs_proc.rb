@@ -17,4 +17,4 @@ p lb.lambda?
 
 
 
-# Class Proc {} is a class. Lambdas are procs. Lambdas are procs but procs not necessarily are lambdas
+# Proc {} is a class. Lambdas are procs. Lambdas are procs but procs not necessarily are lambdas
