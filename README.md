@@ -1,9 +1,7 @@
 # Mastering Ruby Closures - Walkthrough
 Notes and Codes on Mastering Ruby Closures A Guide to Blocks, Procs, and Lambdas from Benjamin Tao Wei Hao
 
-This book is really nice and not long. I'm glad that I read it just after The Well Grounded Rubyist (TWGR). The last chapters of TWGR were all related to Procs, Lambdas, Blocks and functional programming.
-
-A bunch of concepts that were somehow vague, is clearer.
+This book is really nice and not long. I'm glad that I read it just after The Well Grounded Rubyist (TWGR). The last chapters of TWGR were all related to Procs, Lambdas, Blocks and functional programming, so it was really good to have some practice on this book.
 
 This books make a good work teaching you the mechanics and tricks for Procs, Lambdas and Blocks. Also, the last chapter, is quite challenging. Implementing our own Lazy Enumerable got around my head and I'm sure I'll revisit this chapter with the Ruby Documentation in order to understand a little bit more about the mechanics behing it.
 
