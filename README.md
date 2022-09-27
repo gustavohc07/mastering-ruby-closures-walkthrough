@@ -10,5 +10,4 @@ This books make a good work teaching you the mechanics and tricks for Procs, Lam
 I will give this book 4.8/5. I feel that the last chapter could be explored a little bit more. Not necessarily going more deep, but expand it a little bit more.
 For every chapter there are exercises and you got the answers for each one if you want to take a look in case you are stuck.
 
-It is a practical book, so you will get your hands dirty right at the first chapter. Not for beginners, though, since the author assume you have some knowledge beforehand.
-   # Implement ++ to call this way 5++ (it will increase by 1)
+It is a practical book, so you will get your hands dirty right at the first chapter. Not for beginners, though, since the author assume you have some Ruby knowledge beforehand.
